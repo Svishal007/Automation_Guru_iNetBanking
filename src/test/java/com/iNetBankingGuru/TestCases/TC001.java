@@ -9,12 +9,11 @@ public class TC001 extends BaseClass{
 	
 	@Test
 	public void logintest() {
-		driver.get(baseURL);
-		logger.info("URL is opened");
+		
 		LoginPageDemoGuru lpg = new LoginPageDemoGuru(driver);
-		lpg.setUsername(userName);
+		lpg.setUsername(username);
 		logger.info("Entered Username");
-		lpg.setPassword(passWord);
+		lpg.setPassword(password);
 		logger.info("Entered Password");
 		lpg.clickSubmit();
 		logger.info("Login Test Passed");

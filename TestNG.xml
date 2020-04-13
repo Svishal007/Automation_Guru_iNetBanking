@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="inetBankingGuru">
+	<test name="Banking App Test Guru">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.iNetBankingGuru.TestCases.TC001" />
+		</classes>
+		
+	</test>
+
+</suite>

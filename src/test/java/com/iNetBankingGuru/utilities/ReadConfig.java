@@ -43,7 +43,7 @@ public class ReadConfig {
 		return IEPath;
 	}
 	public String getFireFoxPath() {
-		String FireFoxPath= pro.getProperty("chrompath");
+		String FireFoxPath= pro.getProperty("FireFoxpath");
 		return FireFoxPath;
 	}
 }
