@@ -34,3 +34,35 @@
 2020-04-13 18:25:56,219 - ebanking -INFO - Entered Username
 2020-04-13 18:25:56,506 - ebanking -INFO - Entered Password
 2020-04-13 18:26:00,402 - ebanking -INFO - Login Test Passed
+2020-04-13 23:24:16,362 - ebanking -INFO - URL is opened
+2020-04-13 23:24:16,864 - ebanking -INFO - Entered Username
+2020-04-13 23:24:17,114 - ebanking -INFO - Entered Password
+2020-04-13 23:24:19,608 - ebanking -INFO - Login Test Passed
+2020-04-14 22:50:30,371 - ebanking -INFO - URL is opened
+2020-04-14 22:50:30,931 - ebanking -INFO - Entered Username
+2020-04-14 22:50:31,177 - ebanking -INFO - Entered Password
+2020-04-14 22:50:34,482 - ebanking -INFO - Login Test Passed
+2020-04-14 22:50:41,707 - ebanking -INFO - URL is opened
+2020-04-14 23:07:57,181 - ebanking -INFO - URL is opened
+2020-04-14 23:09:10,897 - ebanking -INFO - URL is opened
+2020-04-14 23:11:02,737 - ebanking -INFO - URL is opened
+2020-04-15 00:12:12,235 - ebanking -INFO - URL is opened
+2020-04-15 00:12:15,001 - ebanking -INFO - UID done
+2020-04-15 00:12:15,147 - ebanking -INFO - password provided
+2020-04-15 00:12:19,025 - ebanking -INFO - Login done
+2020-04-15 00:12:20,538 - ebanking -INFO - UID done
+2020-04-15 00:12:20,994 - ebanking -INFO - password provided
+2020-04-15 00:12:21,644 - ebanking -INFO - Login done
+2020-04-15 00:12:23,073 - ebanking -INFO - UID done
+2020-04-15 00:12:23,405 - ebanking -INFO - password provided
+2020-04-15 00:12:24,301 - ebanking -INFO - Login done
+2020-04-15 00:12:25,932 - ebanking -INFO - UID done
+2020-04-15 00:12:26,222 - ebanking -INFO - password provided
+2020-04-15 00:12:27,062 - ebanking -INFO - Login done
+2020-04-15 00:12:28,678 - ebanking -INFO - UID done
+2020-04-15 00:12:29,146 - ebanking -INFO - password provided
+2020-04-15 00:12:29,825 - ebanking -INFO - Login done
+2020-04-15 00:12:31,602 - ebanking -INFO - UID done
+2020-04-15 00:12:31,804 - ebanking -INFO - password provided
+2020-04-15 00:12:33,705 - ebanking -INFO - Login done
+2020-04-15 00:12:33,830 - ebanking -WARN - Login Passed

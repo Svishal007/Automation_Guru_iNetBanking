@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import com.iNetBankingGuru.pageObjects.LoginPageDemoGuru;
 
-public class TC001 extends BaseClass{
+public class TC_LoginPage_TC001 extends BaseClass{
 	
 	@Test
 	public void logintest() {

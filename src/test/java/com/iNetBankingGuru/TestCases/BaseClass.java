@@ -29,6 +29,7 @@ public class BaseClass {
 	public void setup(String br) {
 		//System Path
 		String projectPath = System.getProperty("user.dir");
+		System.out.println(projectPath);
 		// Logger functionality
 		logger = Logger.getLogger("ebanking");
 		PropertyConfigurator.configure("log4j.properties");

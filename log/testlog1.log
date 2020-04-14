@@ -34,3 +34,35 @@
 2020-04-13 18:25:56,219 [main] INFO ebanking - Entered Username
 2020-04-13 18:25:56,506 [main] INFO ebanking - Entered Password
 2020-04-13 18:26:00,402 [main] INFO ebanking - Login Test Passed
+2020-04-13 23:24:16,362 [main] INFO ebanking - URL is opened
+2020-04-13 23:24:16,864 [main] INFO ebanking - Entered Username
+2020-04-13 23:24:17,114 [main] INFO ebanking - Entered Password
+2020-04-13 23:24:19,608 [main] INFO ebanking - Login Test Passed
+2020-04-14 22:50:30,371 [main] INFO ebanking - URL is opened
+2020-04-14 22:50:30,931 [main] INFO ebanking - Entered Username
+2020-04-14 22:50:31,177 [main] INFO ebanking - Entered Password
+2020-04-14 22:50:34,482 [main] INFO ebanking - Login Test Passed
+2020-04-14 22:50:41,707 [main] INFO ebanking - URL is opened
+2020-04-14 23:07:57,181 [main] INFO ebanking - URL is opened
+2020-04-14 23:09:10,897 [main] INFO ebanking - URL is opened
+2020-04-14 23:11:02,737 [main] INFO ebanking - URL is opened
+2020-04-15 00:12:12,235 [main] INFO ebanking - URL is opened
+2020-04-15 00:12:15,001 [main] INFO ebanking - UID done
+2020-04-15 00:12:15,147 [main] INFO ebanking - password provided
+2020-04-15 00:12:19,025 [main] INFO ebanking - Login done
+2020-04-15 00:12:20,538 [main] INFO ebanking - UID done
+2020-04-15 00:12:20,994 [main] INFO ebanking - password provided
+2020-04-15 00:12:21,644 [main] INFO ebanking - Login done
+2020-04-15 00:12:23,073 [main] INFO ebanking - UID done
+2020-04-15 00:12:23,405 [main] INFO ebanking - password provided
+2020-04-15 00:12:24,301 [main] INFO ebanking - Login done
+2020-04-15 00:12:25,932 [main] INFO ebanking - UID done
+2020-04-15 00:12:26,222 [main] INFO ebanking - password provided
+2020-04-15 00:12:27,062 [main] INFO ebanking - Login done
+2020-04-15 00:12:28,678 [main] INFO ebanking - UID done
+2020-04-15 00:12:29,146 [main] INFO ebanking - password provided
+2020-04-15 00:12:29,825 [main] INFO ebanking - Login done
+2020-04-15 00:12:31,602 [main] INFO ebanking - UID done
+2020-04-15 00:12:31,804 [main] INFO ebanking - password provided
+2020-04-15 00:12:33,705 [main] INFO ebanking - Login done
+2020-04-15 00:12:33,830 [main] WARN ebanking - Login Passed

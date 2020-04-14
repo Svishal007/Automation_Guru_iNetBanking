@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <suite name="inetBankingGuru">
+
+	<!-- <listners> <listener name="com.iNetBankingGuru.utilities.Reporting"/> 
+		</listners> -->
+
+
 	<test name="Banking App Test Guru">
 		<parameter name="browser" value="chrome" />
 		<classes>
-			<class name="com.iNetBankingGuru.TestCases.TC001" />
+			<!-- <class name="com.iNetBankingGuru.TestCases.TC_LoginPage_TC001" /> -->
+			<class name="com.iNetBankingGuru.TestCases.TC_LoginDDT_002" />
+
 		</classes>
-		
+
 	</test>
 
-</suite>
+</suite>	

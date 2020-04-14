@@ -27,6 +27,10 @@ public class LoginPageDemoGuru {
 	
 	@FindBy(name="btnReset")
 	WebElement btnReset;
+	
+	@FindBy(xpath ="a[contains(text(),'Log out')]")
+	WebElement logout;
+	
 
 	
 	public void setUsername(String uname) {
@@ -40,6 +44,9 @@ public class LoginPageDemoGuru {
 	}
 	public void clickReset() {
 		btnReset.click();
+	}
+	public void logout() {
+		logout.click();
 	}
 	
 	
